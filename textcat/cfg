@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "combined_cells",
+    "not_combined_cells"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
